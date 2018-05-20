@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Pratyush Singh</title>
+	</head>
+	<body>
+		<nav>
+    		<ul>
+        		<li><a href="/">Home</a></li>
+	        	<li><a href="/about">About</a></li>
+        		<li><a href="/cv">CV</a></li>
+        		<li><a href="/blog">Blog</a></li>
+    		</ul>
+		</nav>
+		<div class="container">
+    		<div class="blurb">
+        		<h1>Hi there, I'm Pratyush Singh!</h1>
+				<p>My Linkedin Profile <em>Don't trust me. <a href="/about">Pratyush Singh</a></em></p>
+    		</div><!-- /.blurb -->
+		</div><!-- /.container -->
+		<footer>
+    		<ul>
+        		<li><a href="mailto:pratyushksingh96@gmail.com">email</a></li>
+        		<li><a href="https://github.com/pratzz96">github.com/pratzz96</a></li>
+			</ul>
+		</footer>
+	</body>
+</html>
