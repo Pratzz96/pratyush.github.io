@@ -1,2 +1,2 @@
-# pratyush.github.io
+# iampratyush.github.io
 My Profile
