@@ -193,6 +193,6 @@ a:active {
     color: #824027;
 }
 
-section {
+.resume-section {
     display: none !important;
 }
