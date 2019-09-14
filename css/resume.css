@@ -194,5 +194,5 @@ a:active {
 }
 
 section {
-    display: none;
+    display: none !important;
 }
